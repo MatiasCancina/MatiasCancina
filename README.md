@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Redux Toolkit, Tailwind and NextJS**
 
-- 💬 Ask me about **React, Redux, Javascript, HTML5, CSS, Sequelize, PosrteSQL, SQL**
+- 💬 Ask me about **React, Redux, Javascript, HTML5, CSS, Sequelize, PostgreSQL, SQL**
 
 - 📫 How to reach me **cancinamatias@gmail.com**
 

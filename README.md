@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a financial project<br>🌱 I’m currently learning TypeScript<br>📫 How to reach me cancinamatias@gmail.com
+🔭 I’m currently working on a financial project<br>🌱 I’m currently learning Python<br>📫 How to reach me cancinamatias@gmail.com
 
 
 ## 🌐 Socials:

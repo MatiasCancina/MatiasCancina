@@ -8,7 +8,6 @@ I am a Full-Stack Developer, specializing in Frontend, and I work at a software 
 - 👨🏻‍💻 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🏋🏻I love working out, 🎮 playing videogames, 🎵 listening to music, and ⚽ playing football.
-- 📫 Reach out to me at: <a href="cancinamatias@gmail.com">cancinamatias@gmail.com</a>
 
 <div align="left">
   <a href="cancinamatias@gmail.com" target="_blank">
@@ -18,14 +17,6 @@ I am a Full-Stack Developer, specializing in Frontend, and I work at a software 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MatiasCancina/MatiasCancina/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## My Skills Include
 

@@ -1,15 +1,15 @@
-<h1 align="center"><b>Hi , I'm Matías Cancina </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Matías Cancina </b><img src="https://i.gifer.com/17eq.gif" width="200"></h1>
 <!--  -->
 <img align="right" width=500px alt="Coding" src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://i.gifer.com/Y3il.gif" width="40px">&nbsp;***About me***
 
 I am a Full-Stack Developer, specializing in Frontend, and I work at a software development company. I love to learn and build something new, productive, innovative, and creative.
 - 👨🏻‍💻 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🏋🏻I love working out, 🎮 playing videogames, 🎵 listening to music, and ⚽ playing football.
 
-<div align="left">
+<div align="center">
   <a href="cancinamatias@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
